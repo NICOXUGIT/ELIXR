@@ -1,0 +1,1063 @@
+[
+ {
+  "key": "burner_can",
+  "brand": "Nutramerican · Energy drink",
+  "hook_kick": "5 AM · otra vez sin ganas",
+  "hook": "¿Otro café<br>antes del gym? <span class=hl><em>Mejor no.</em></span>",
+  "hook_size": 104,
+  "hook_chars": [
+   "m1",
+   "f2"
+  ],
+  "tape": "LA LATA QUE TE PRENDE PARA ENTRENAR",
+  "name1": "Burner Stack",
+  "name2": "Energy Drink.",
+  "bursts": [
+   [
+    "250",
+    "ML"
+   ],
+   [
+    "1",
+    "LATA = 1 PORCIÓN"
+   ]
+  ],
+  "flavor": "🍇 Sabor uva",
+  "big": [
+   "Abre y listo",
+   "Cero polvo. Cero shaker.",
+   "0",
+   "cosas que preparar. Solo ábrela y tómala fría.",
+   420
+  ],
+  "tiles_title": "En una lata",
+  "tiles": [
+   [
+    "250 ml",
+    "Lista para tomar",
+    "🥫"
+   ],
+   [
+    "Uva",
+    "Sabor que sí provoca",
+    "🍇"
+   ],
+   [
+    "Burbujas",
+    "Levemente gasificada",
+    "🫧"
+   ],
+   [
+    "1",
+    "Porción por lata",
+    "⚡"
+   ]
+  ],
+  "who": [
+   "Entrenas temprano",
+   "No te gusta preparar polvos",
+   "Quieres algo frío y rápido"
+  ],
+  "who_char": [
+   "m1",
+   "point",
+   "skinny"
+  ],
+  "how_title": "Fría.<br><em style='color:var(--lime)'>Y a darle.</em>",
+  "how": [
+   [
+    "🧊",
+    "Ponla bien fría"
+   ],
+   [
+    "⏱️",
+    "Tómala 20–30 min antes"
+   ],
+   [
+    "🏋️",
+    "Entrena con todo"
+   ]
+  ],
+  "how_tape": "PERFECTA PARA LLEVAR EN EL MORRAL 🎒",
+  "myth": [
+   "Ojo con esto",
+   "¿Una lata<br>y un pre-entreno?",
+   "✗ NO LOS MEZCLES",
+   "Es una <b>bebida energizante.</b> Escoge una sola fuente de energía y evítala antes de dormir.",
+   [
+    "f2",
+    "shrug",
+    "shock"
+   ]
+  ],
+  "warn": "Contiene edulcorantes. No recomendada en embarazo, menores de edad ni personas sensibles a estimulantes.",
+  "cta_kick": "Tu próximo entreno",
+  "cta": "Ábrela <span class=hl><em>hoy.</em></span>",
+  "caption": "¿Otro café a las 5 am antes del gym? ☕😴\nMejor ábrela fría y a entrenar 🥫⚡\n\n🍇 Burner Stack Energy Drink · Nutramerican\n✅ Lista para tomar · 250 ml · Sabor uva\n✅ Levemente gasificada · Perfecta para el morral\n\n¿Eres de los que entrena temprano? Cuéntanos a qué hora 👇\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídela en el link del perfil\n\n#burnerstack #nutramerican #energydrink #preentreno #gymcolombia #fitnesscolombia #bogota #elixr"
+ },
+ {
+  "key": "burner_pow",
+  "brand": "Nutramerican · Quemador",
+  "hook_kick": "Lee esto antes de comprar un quemador",
+  "hook": "¿Quieres <span class=hl><em>definir</em></span><br>para diciembre?",
+  "hook_size": 108,
+  "hook_chars": [
+   "m2",
+   "f1"
+  ],
+  "tape": "5 INGREDIENTES EN UN SOLO SCOOP · DESLIZA",
+  "name1": "Burner Stack",
+  "name2": "en polvo.",
+  "bursts": [
+   [
+    "60",
+    "PORCIONES"
+   ],
+   [
+    "360 g",
+    "SABOR UVA"
+   ]
+  ],
+  "flavor": "🍇 Sabor uva · 360 g",
+  "big": [
+   "Haz la cuenta",
+   "Un tarro te da…",
+   "60",
+   "porciones de L-carnitina, cafeína, taurina, CLA y cromo.",
+   420
+  ],
+  "tiles_title": "5 en 1 scoop",
+  "tiles": [
+   [
+    "1.000 mg",
+    "L-carnitina",
+    "🔥"
+   ],
+   [
+    "100 mg",
+    "Cafeína",
+    "⚡"
+   ],
+   [
+    "1.000 mg",
+    "Taurina",
+    "💧"
+   ],
+   [
+    "500 mg",
+    "CLA + 200 mcg cromo",
+    "🧪"
+   ]
+  ],
+  "who": [
+   "Estás en definición",
+   "Haces cardio o pesas",
+   "Quieres energía extra"
+  ],
+  "who_char": [
+   "f1",
+   "point",
+   "skinny"
+  ],
+  "how_title": "1 scoop.<br><em style='color:var(--lime)'>Antes de entrenar.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 porción"
+   ],
+   [
+    "💧",
+    "Con agua bien fría"
+   ],
+   [
+    "🏃",
+    "Antes del cardio o pesas"
+   ]
+  ],
+  "how_tape": "FUNCIONA CON DÉFICIT CALÓRICO + ENTRENO 🔥",
+  "myth": [
+   "La verdad",
+   "¿Quema grasa<br>sin hacer nada?",
+   "✗ NINGUNO LO HACE",
+   "Ningún quemador funciona solo. Es un <b>apoyo</b> para tu dieta y tu entreno, no un reemplazo.",
+   [
+    "m2",
+    "shrug",
+    "shock"
+   ]
+  ],
+  "warn": "Contiene cafeína y extracto de naranja amarga. No usar en embarazo, hipertensión, problemas cardíacos ni menores de 18.",
+  "cta_kick": "Diciembre está cerca",
+  "cta": "Empieza <span class=hl><em>hoy.</em></span>",
+  "caption": "¿Quieres definir para diciembre? 🔥\nAntes de comprar cualquier quemador, desliza 👉\n\n🍇 Burner Stack en polvo · Nutramerican\n⚡ L-carnitina 1.000 mg · Cafeína 100 mg · Taurina 1.000 mg\n🧪 CLA 500 mg · Picolinato de cromo 200 mcg\n📦 60 porciones · 360 g\n\nRecuerda: el quemador apoya, el déficit y el entreno hacen el trabajo 💪\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n💬 Escríbenos y te asesoramos\n\n#burnerstack #quemador #lcarnitina #definicion #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "multi",
+  "brand": "MuscleTech Platinum",
+  "hook_kick": "Pregunta incómoda",
+  "hook": "Cuidas tus macros…<br><span class=hl><em>¿y tus vitaminas?</em></span>",
+  "hook_size": 98,
+  "hook_chars": [
+   "m1",
+   "f1"
+  ],
+  "tape": "EL SUPLEMENTO QUE CASI TODOS OLVIDAN",
+  "name1": "Multivitamínico",
+  "name2": "Platinum.",
+  "name_size": 104,
+  "bursts": [
+   [
+    "180",
+    "TABLETAS"
+   ],
+   [
+    "18",
+    "VITAMINAS Y MINERALES"
+   ]
+  ],
+  "flavor": "💊 Para personas activas",
+  "big": [
+   "En cada servicio",
+   "Un solo frasco con…",
+   "18",
+   "vitaminas y minerales para tu día activo.",
+   420
+  ],
+  "tiles_title": "Lo de adentro",
+  "tiles": [
+   [
+    "18",
+    "Vitaminas y minerales",
+    "💊"
+   ],
+   [
+    "+100%",
+    "Valor diario de vitamina C y E",
+    "🍊"
+   ],
+   [
+    "Zinc",
+    "Apoyo inmune con vitamina C",
+    "🛡️"
+   ],
+   [
+    "Enzimas",
+    "Y minerales",
+    "🧬"
+   ]
+  ],
+  "who": [
+   "Entrenas varias veces por semana",
+   "No siempre comes variado",
+   "Quieres cubrir lo básico"
+  ],
+  "who_char": [
+   "m1",
+   "wave",
+   "skinny"
+  ],
+  "how_title": "Con comida.<br><em style='color:var(--lime)'>Todos los días.</em>",
+  "how": [
+   [
+    "🍽️",
+    "Tómalo con una comida"
+   ],
+   [
+    "📋",
+    "La dosis de la etiqueta"
+   ],
+   [
+    "📅",
+    "Sé constante"
+   ]
+  ],
+  "how_tape": "180 TABLETAS EN UN SOLO FRASCO 💊",
+  "myth": [
+   "Ojo",
+   "¿Reemplaza<br>la comida?",
+   "✗ PARA NADA",
+   "Es un <b>complemento.</b> Frutas, verduras y comida real siguen siendo la base.",
+   [
+    "f1",
+    "think",
+    "think"
+   ]
+  ],
+  "warn": "Si tomas medicamentos o tienes alguna condición, consulta a tu médico antes de suplementarte.",
+  "cta_kick": "Cuídate por dentro",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "Cuidas tus macros al gramo… ¿y tus vitaminas? 🤔\nEl suplemento que casi todos olvidan 👉\n\n💊 Multivitamínico Platinum · MuscleTech\n✅ 18 vitaminas y minerales\n✅ Más del 100% del valor diario de vitamina C y E\n✅ Zinc + vitamina C · Enzimas y minerales\n📦 180 tabletas\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#multivitaminico #muscletech #vitaminas #salud #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "aminobuild",
+  "brand": "MuscleTech · Aminoácidos",
+  "hook_kick": "Mira tu botella del gym",
+  "hook": "¿Solo tomas<br><span class=hl><em>agua</em></span> entrenando?",
+  "hook_size": 108,
+  "hook_chars": [
+   "m2",
+   "f2"
+  ],
+  "tape": "LO QUE TOMAS DURANTE EL ENTRENO IMPORTA",
+  "name1": "Amino Build",
+  "name2": "fórmula BCAA.",
+  "bursts": [
+   [
+    "7 g",
+    "BCAA"
+   ],
+   [
+    "40",
+    "SERVICIOS"
+   ]
+  ],
+  "flavor": "🍉 Strawberry Watermelon",
+  "big": [
+   "Por cada servicio",
+   "Tu botella con…",
+   "7g",
+   "de BCAA, con 4 g de leucina incluidos.",
+   420
+  ],
+  "tiles_title": "En cada scoop",
+  "tiles": [
+   [
+    "7 g",
+    "BCAA",
+    "💪"
+   ],
+   [
+    "4 g",
+    "Leucina",
+    "🧬"
+   ],
+   [
+    "2,5 g",
+    "Betaína",
+    "⚡"
+   ],
+   [
+    "1 g",
+    "Taurina",
+    "💧"
+   ]
+  ],
+  "who": [
+   "Entrenas largo e intenso",
+   "Te aburre el agua sola",
+   "Quieres un intra-entreno rico"
+  ],
+  "who_char": [
+   "m2",
+   "point",
+   "skinny"
+  ],
+  "how_title": "En tu botella.<br><em style='color:var(--lime)'>Durante el entreno.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 scoop"
+   ],
+   [
+    "🧊",
+    "En agua fría"
+   ],
+   [
+    "🏋️",
+    "Sorbos mientras entrenas"
+   ]
+  ],
+  "how_tape": "SABE A FRESA Y PATILLA 🍉🍓",
+  "myth": [
+   "La verdad",
+   "¿Reemplaza<br>la proteína?",
+   "✗ NO",
+   "Los BCAA <b>no reemplazan</b> tu proteína del día. Son un extra para tu entreno.",
+   [
+    "m2",
+    "think",
+    "think"
+   ]
+  ],
+  "warn": "Úsalo como complemento de una alimentación balanceada.",
+  "cta_kick": "Llena tu botella",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "¿Solo agua mientras entrenas? 💧\nTu botella puede hacer mucho más 👉\n\n🍉 Amino Build · MuscleTech · Strawberry Watermelon\n💪 7 g de BCAA · 4 g de leucina\n⚡ 2,5 g de betaína · 1 g de taurina\n📦 40 servicios\n\n¿Qué llevas tú en la botella? Te leemos 👇\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#aminobuild #muscletech #bcaa #intraentreno #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "eaa",
+  "brand": "MuscleTech Platinum",
+  "hook_kick": "El debate del gym",
+  "hook": "¿BCAA o EAA?<br><span class=hl><em>Spoiler:</em></span>",
+  "hook_size": 118,
+  "hook_chars": [
+   "m1",
+   "m2"
+  ],
+  "tape": "LA RESPUESTA QUE NADIE TE EXPLICÓ",
+  "name1": "100% EAA+",
+  "name2": "+ electrolitos.",
+  "bursts": [
+   [
+    "7,4 g",
+    "EAA"
+   ],
+   [
+    "30",
+    "SERVICIOS"
+   ]
+  ],
+  "flavor": "🍓 Fruit Punch",
+  "big": [
+   "La diferencia",
+   "Los BCAA son 3.<br>Los EAA son…",
+   "9",
+   "aminoácidos esenciales: los que tu cuerpo no fabrica.",
+   420
+  ],
+  "tiles_title": "En cada scoop",
+  "tiles": [
+   [
+    "7,4 g",
+    "Aminoácidos esenciales",
+    "🧬"
+   ],
+   [
+    "4,5 g",
+    "BCAA incluidos",
+    "💪"
+   ],
+   [
+    "+",
+    "Electrolitos",
+    "⚡"
+   ],
+   [
+    "30",
+    "Servicios",
+    "📅"
+   ]
+  ],
+  "who": [
+   "Entrenas en ayunas o largo",
+   "Sudas mucho",
+   "Quieres el combo completo"
+  ],
+  "who_char": [
+   "m1",
+   "point",
+   "skinny"
+  ],
+  "how_title": "Antes o durante.<br><em style='color:var(--lime)'>Tú eliges.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 scoop"
+   ],
+   [
+    "💧",
+    "En agua fría"
+   ],
+   [
+    "🏋️",
+    "Antes o durante el entreno"
+   ]
+  ],
+  "how_tape": "AMINOÁCIDOS + ELECTROLITOS EN UNO 💧",
+  "myth": [
+   "Entonces…",
+   "¿BCAA ya no<br>sirven?",
+   "✓ SÍ SIRVEN",
+   "Pero los EAA <b>incluyen</b> los BCAA y 6 aminoácidos esenciales más. Es el paquete completo.",
+   [
+    "m2",
+    "cheer",
+    "happy"
+   ]
+  ],
+  "warn": "Complemento alimenticio. No reemplaza una dieta balanceada.",
+  "cta_kick": "Paquete completo",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "¿BCAA o EAA? El debate eterno del gym 🤔\nTe lo explicamos en 8 slides 👉\n\n🍓 Platinum 100% EAA+ · MuscleTech · Fruit Punch\n🧬 7,4 g de aminoácidos esenciales\n💪 4,5 g de BCAA incluidos\n⚡ Con electrolitos · 30 servicios\n\nY tú, ¿team BCAA o team EAA? 👇\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#eaa #aminoacidos #muscletech #bcaa #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "aminox",
+  "brand": "BSN · Endurance & Recovery",
+  "hook_kick": "Lee la etiqueta de tu bebida",
+  "hook": "¿Tu bebida del gym<br>tiene <span class=hl><em>azúcar?</em></span>",
+  "hook_size": 98,
+  "hook_chars": [
+   "f2",
+   "m1"
+  ],
+  "tape": "ESTA TIENE CERO · DESLIZA",
+  "name1": "Amino X",
+  "name2": "cero azúcar.",
+  "bursts": [
+   [
+    "10 g",
+    "AMINOÁCIDOS"
+   ],
+   [
+    "0",
+    "AZÚCAR"
+   ]
+  ],
+  "flavor": "🍊 Fruit Punch",
+  "big": [
+   "Un solo tarro",
+   "Te rinde…",
+   "70",
+   "servicios. Más de 2 meses de entrenos.",
+   420
+  ],
+  "tiles_title": "Por servicio",
+  "tiles": [
+   [
+    "10 g",
+    "Aminoácidos",
+    "🧬"
+   ],
+   [
+    "0 g",
+    "Azúcar",
+    "🚫"
+   ],
+   [
+    "70",
+    "Servicios por tarro",
+    "📅"
+   ],
+   [
+    "1,02 kg",
+    "Tarro grande",
+    "🫙"
+   ]
+  ],
+  "who": [
+   "Haces entrenos largos",
+   "Cuidas el azúcar",
+   "Quieres sabor sin culpa"
+  ],
+  "who_char": [
+   "f2",
+   "point",
+   "skinny"
+  ],
+  "how_title": "Sorbo a sorbo.<br><em style='color:var(--lime)'>Todo el entreno.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 servicio"
+   ],
+   [
+    "🧊",
+    "En agua bien fría"
+   ],
+   [
+    "🔁",
+    "Durante o entre comidas"
+   ]
+  ],
+  "how_tape": "RESISTENCIA Y RECUPERACIÓN 🔁",
+  "myth": [
+   "Dato",
+   "¿Cero azúcar<br>sabe feo?",
+   "✗ PARA NADA",
+   "Sabor <b>Fruit Punch</b> bien frutal y refrescante. Ideal para quien cuida su consumo de azúcar.",
+   [
+    "f2",
+    "cheer",
+    "happy"
+   ]
+  ],
+  "warn": "Complemento alimenticio. Úsalo junto a una dieta balanceada.",
+  "cta_kick": "70 entrenos te esperan",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "¿Tu bebida del gym tiene azúcar? 👀\nEsta tiene CERO 👉\n\n🍊 Amino X · BSN · Fruit Punch\n🧬 10 g de aminoácidos por servicio\n🚫 0 g de azúcar\n📦 70 servicios · 1,02 kg (¡más de 2 meses!)\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#aminox #bsn #aminoacidos #ceroazucar #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "serious",
+  "brand": "Optimum Nutrition · Ganador",
+  "hook_kick": "Esto es UN solo batido",
+  "hook": "¿Comes de todo<br>y <span class=hl><em>no subes?</em></span>",
+  "hook_size": 108,
+  "hook_chars": [
+   "m2",
+   "m1"
+  ],
+  "tape": "1.250 CALORÍAS EN UN BATIDO 🤯",
+  "name1": "Serious Mass",
+  "name2": "el clásico.",
+  "bursts": [
+   [
+    "1.250",
+    "CALORÍAS"
+   ],
+   [
+    "50 g",
+    "PROTEÍNA"
+   ]
+  ],
+  "flavor": "🍌 Sabor banano",
+  "big": [
+   "Por servicio",
+   "Un batido con…",
+   "1.250",
+   "calorías para dejar de ser “el flaco”.",
+   330,
+   800
+  ],
+  "tiles_title": "Un servicio",
+  "tiles": [
+   [
+    "1.250",
+    "Calorías",
+    "🔥"
+   ],
+   [
+    "50 g",
+    "Proteína",
+    "💪"
+   ],
+   [
+    "254 g",
+    "Carbohidratos",
+    "🍚"
+   ],
+   [
+    "6 lb",
+    "2,72 kg · 8 servicios",
+    "🫙"
+   ]
+  ],
+  "who": [
+   "Te cuesta subir de peso",
+   "Te llenas rápido",
+   "Entrenas fuerte"
+  ],
+  "who_char": [
+   "m2",
+   "point",
+   "skinny"
+  ],
+  "how_title": "Batido.<br><em style='color:var(--lime)'>Entre comidas.</em>",
+  "how": [
+   [
+    "🥄",
+    "Mide tu porción"
+   ],
+   [
+    "🥛",
+    "Con leche o agua"
+   ],
+   [
+    "🍽️",
+    "Entre comidas, no en vez de"
+   ]
+  ],
+  "how_tape": "TIP: SI TE LLENA, DIVÍDELO EN 2 TOMAS 🥤",
+  "myth": [
+   "Ojo",
+   "¿Me va a<br>engordar?",
+   "DEPENDE DE TI",
+   "Con <b>entreno</b> sumas masa. Sin entreno, solo sumas calorías. Úsalo con un plan.",
+   [
+    "m2",
+    "think",
+    "think"
+   ]
+  ],
+  "warn": "Complemento alimenticio. No reemplaza comidas.",
+  "cta_kick": "Adiós, “el flaco”",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "¿Comes de todo y no subes ni un kilo? 😩\nEsto es UN solo batido 🤯👉\n\n🍌 Serious Mass · Optimum Nutrition · Banano\n🔥 1.250 calorías por servicio\n💪 50 g de proteína · 🍚 254 g de carbohidratos\n📦 6 lb · 2,72 kg\n\nTip: si te llena, divídelo en 2 tomas 🥤\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#seriousmass #optimumnutrition #gainer #subirdepeso #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "gmn",
+  "brand": "GMN · Hipercalórico",
+  "hook_kick": "Para los que no suben",
+  "hook": "10 libras para<br>dejar de ser <span class=hl><em>“el flaco”</em></span>",
+  "hook_size": 98,
+  "hook_chars": [
+   "m2",
+   "f1"
+  ],
+  "tape": "EL TARRO MÁS GRANDE DEL CATÁLOGO",
+  "name1": "Super Mega",
+  "name2": "Gainer.",
+  "bursts": [
+   [
+    "10 lb",
+    "TARRO"
+   ],
+   [
+    "50 g",
+    "PROTEÍNA"
+   ]
+  ],
+  "flavor": "🍦 Vainilla gourmet",
+  "big": [
+   "Por servicio",
+   "Cada batido trae…",
+   "967",
+   "calorías para sumar sin llenarte de comida.",
+   360,
+   800
+  ],
+  "tiles_title": "Un servicio",
+  "tiles": [
+   [
+    "967",
+    "Calorías",
+    "🔥"
+   ],
+   [
+    "50 g",
+    "Proteína",
+    "💪"
+   ],
+   [
+    "178 g",
+    "Carbohidratos",
+    "🍚"
+   ],
+   [
+    "10 lb",
+    "Tarro gigante",
+    "🫙"
+   ]
+  ],
+  "who": [
+   "Eres delgado y no subes",
+   "Tu apetito no da para más",
+   "Quieres rendimiento por plata"
+  ],
+  "who_char": [
+   "m2",
+   "point",
+   "skinny"
+  ],
+  "how_title": "Bátelo.<br><em style='color:var(--lime)'>Súmalo a tu día.</em>",
+  "how": [
+   [
+    "🥄",
+    "Mide tu porción"
+   ],
+   [
+    "🥛",
+    "Con leche fría"
+   ],
+   [
+    "🍌",
+    "Súmale banano o avena"
+   ]
+  ],
+  "how_tape": "SABOR VAINILLA GOURMET 🍦",
+  "myth": [
+   "Error común",
+   "¿Lo tomo en vez<br>del almuerzo?",
+   "✗ NUNCA",
+   "El gainer <b>se suma</b> a tus comidas. Si lo usas para reemplazarlas, no vas a subir.",
+   [
+    "m2",
+    "shrug",
+    "shock"
+   ]
+  ],
+  "warn": "Contiene edulcorantes. Complemento alimenticio.",
+  "cta_kick": "10 libras de progreso",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "10 libras para dejar de ser “el flaco” 💪\nDesliza y mira lo que trae cada batido 👉\n\n🍦 Super Mega Gainer · GMN · Vainilla gourmet\n🔥 967 calorías · 💪 50 g de proteína · 🍚 178 g de carbohidratos\n📦 Tarro de 10 lb\n\nOjo: se suma a tus comidas, no las reemplaza ⚠️\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#gainer #gmn #subirdepeso #masamuscular #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "elite5",
+  "brand": "Dymatize · Proteína",
+  "hook_kick": "Haz la cuenta conmigo",
+  "hook": "63 batidos.<br><span class=hl><em>25 g cada uno.</em></span>",
+  "hook_size": 112,
+  "hook_chars": [
+   "f1",
+   "m3"
+  ],
+  "tape": "LA PROTEÍNA QUE TE DURA 2 MESES",
+  "name1": "Elite",
+  "name2": "100% Whey.",
+  "bursts": [
+   [
+    "25 g",
+    "PROTEÍNA"
+   ],
+   [
+    "63",
+    "SERVICIOS"
+   ]
+  ],
+  "flavor": "🍫 Rich Chocolate",
+  "big": [
+   "En todo el tarro",
+   "Son más de…",
+   "1.500",
+   "gramos de proteína en un tarro de 5 lb.",
+   330,
+   800
+  ],
+  "tiles_title": "Por scoop",
+  "tiles": [
+   [
+    "25 g",
+    "Proteína",
+    "💪"
+   ],
+   [
+    "5,5 g",
+    "BCAA",
+    "🧬"
+   ],
+   [
+    "2,7 g",
+    "Leucina",
+    "⚡"
+   ],
+   [
+    "✓",
+    "Probada sin sustancias prohibidas",
+    "🛡️"
+   ]
+  ],
+  "who": [
+   "Quieres ganar músculo",
+   "No llegas a tu proteína",
+   "Buscas un sabor top"
+  ],
+  "who_char": [
+   "m3",
+   "flex",
+   "strong"
+  ],
+  "how_title": "1 scoop.<br><em style='color:var(--lime)'>1 minuto.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 scoop"
+   ],
+   [
+    "🥛",
+    "Agua o leche"
+   ],
+   [
+    "🏋️",
+    "Después del gym o cuando quieras"
+   ]
+  ],
+  "how_tape": "SABOR RICH CHOCOLATE 🍫",
+  "myth": [
+   "Mito",
+   "¿La proteína<br>te pone gordo?",
+   "✗ FALSO",
+   "25 g de proteína con <b>muy pocas calorías.</b> Lo que engorda es el exceso total de calorías.",
+   [
+    "f1",
+    "shrug",
+    "shock"
+   ]
+  ],
+  "warn": "Complemento alimenticio. Úsalo dentro de una dieta balanceada.",
+  "cta_kick": "63 batidos te esperan",
+  "cta": "Pídelo <span class=hl><em>hoy.</em></span>",
+  "caption": "63 batidos. 25 g de proteína cada uno 💪\nHaz la cuenta: más de 1.500 g de proteína en un tarro 🤯👉\n\n🍫 Elite 100% Whey · Dymatize · Rich Chocolate\n💪 25 g de proteína · 🧬 5,5 g de BCAA · ⚡ 2,7 g de leucina\n🛡️ Probada sin sustancias prohibidas\n📦 5 lb · 63 servicios\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídela en el link del perfil\n\n#dymatize #elitewhey #proteina #wheyprotein #gymcolombia #bogota #elixr"
+ },
+ {
+  "key": "pase",
+  "brand": "FitMafia · Pre-entreno",
+  "hook_kick": "Ese día que no quieres ir",
+  "hook": "¿Entrenas<br><span class=hl><em>sin ganas?</em></span>",
+  "hook_size": 118,
+  "hook_chars": [
+   "m1",
+   "f2"
+  ],
+  "tape": "DALE PASE A TU ENTRENO ⚡",
+  "name1": "PASE",
+  "name2": "Blue Raspberry.",
+  "name_size": 104,
+  "bursts": [
+   [
+    "160",
+    "MG CAFEÍNA"
+   ],
+   [
+    "30",
+    "SERVICIOS"
+   ]
+  ],
+  "flavor": "🫐 Blue Raspberry Ice",
+  "big": [
+   "Por servicio",
+   "El empujón exacto:",
+   "160",
+   "mg de cafeína. Energía y enfoque sin exagerar.",
+   420
+  ],
+  "tiles_title": "En cada servicio",
+  "tiles": [
+   [
+    "160 mg",
+    "Cafeína",
+    "⚡"
+   ],
+   [
+    "30",
+    "Servicios",
+    "📅"
+   ],
+   [
+    "330 g",
+    "Contenido neto",
+    "🫙"
+   ],
+   [
+    "Ice",
+    "Sabor blue raspberry",
+    "🫐"
+   ]
+  ],
+  "who": [
+   "Estás empezando con pre",
+   "Entrenas después del trabajo",
+   "Quieres enfoque sin exceso"
+  ],
+  "who_char": [
+   "f2",
+   "cheer",
+   "skinny"
+  ],
+  "how_title": "20 minutos<br><em style='color:var(--lime)'>antes del gym.</em>",
+  "how": [
+   [
+    "🥄",
+    "1 servicio"
+   ],
+   [
+    "🧊",
+    "En agua fría"
+   ],
+   [
+    "⏱️",
+    "20–30 min antes"
+   ]
+  ],
+  "how_tape": "PRIMERA VEZ: EMPIEZA CON MEDIA PORCIÓN ½",
+  "myth": [
+   "Regla de oro",
+   "¿Pre a las<br>9 de la noche?",
+   "✗ MALA IDEA",
+   "Evítalo <b>6 horas antes de dormir</b> y no lo mezcles con café ni energizantes.",
+   [
+    "f2",
+    "shrug",
+    "shock"
+   ]
+  ],
+  "warn": "Contiene cafeína y edulcorantes. No usar en embarazo, hipertensión, problemas cardíacos ni menores de 18.",
+  "cta_kick": "Cero excusas",
+  "cta": "Dale <span class=hl><em>PASE.</em></span>",
+  "caption": "¿Hoy no tienes ganas de entrenar? 😮‍💨\nDale PASE ⚡👉\n\n🫐 PASE · FitMafia · Blue Raspberry Ice\n⚡ 160 mg de cafeína por servicio\n📦 30 servicios · 330 g\n\nTip: la primera vez empieza con media porción y evítalo 6 horas antes de dormir 🌙\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídelo en el link del perfil\n\n#preentreno #pase #fitmafia #gymcolombia #fitnesscolombia #bogota #elixr"
+ },
+ {
+  "key": "wheypure",
+  "brand": "Smart Nutrition · Proteína",
+  "hook_kick": "Cuenta los batidos",
+  "hook": "75 batidos de<br><span class=hl><em>chocolate.</em></span> 🍫",
+  "hook_size": 108,
+  "hook_chars": [
+   "f1",
+   "m1"
+  ],
+  "tape": "EN UN SOLO TARRO · DESLIZA",
+  "name1": "Whey Pure",
+  "name2": "baja en grasa.",
+  "bursts": [
+   [
+    "75",
+    "PORCIONES"
+   ],
+   [
+    "21 g",
+    "PROTEÍNA"
+   ]
+  ],
+  "flavor": "🍫 Sabor chocolate",
+  "big": [
+   "En todo el tarro",
+   "Un tarro de 2.270 g te da…",
+   "75",
+   "porciones de proteína de suero sabor chocolate.",
+   420
+  ],
+  "tiles_title": "Por porción",
+  "tiles": [
+   [
+    "21 g",
+    "Proteína",
+    "💪"
+   ],
+   [
+    "105",
+    "Kcal",
+    "🔥"
+   ],
+   [
+    "30 g",
+    "Por porción",
+    "🥄"
+   ],
+   [
+    "Baja",
+    "En grasa",
+    "✅"
+   ]
+  ],
+  "who": [
+   "Quieres cumplir tu proteína",
+   "Buscas rendimiento por tarro",
+   "Te encanta el chocolate"
+  ],
+  "who_char": [
+   "f1",
+   "point",
+   "skinny"
+  ],
+  "how_title": "1 porción.<br><em style='color:var(--lime)'>Agita y listo.</em>",
+  "how": [
+   [
+    "🥄",
+    "30 g"
+   ],
+   [
+    "🥛",
+    "Agua o leche"
+   ],
+   [
+    "🍫",
+    "Disfrútala"
+   ]
+  ],
+  "how_tape": "PROTEÍNA DE SUERO DE LECHE 🥛",
+  "myth": [
+   "Mito",
+   "¿La proteína<br>es solo para hombres?",
+   "✗ FALSO",
+   "La proteína ayuda a <b>cualquier persona</b> que entrene a recuperarse y a ganar músculo.",
+   [
+    "f1",
+    "flex",
+    "proud"
+   ]
+  ],
+  "warn": "Contiene edulcorantes. Complemento alimenticio.",
+  "cta_kick": "75 batidos te esperan",
+  "cta": "Pídela <span class=hl><em>hoy.</em></span>",
+  "caption": "75 batidos de chocolate en un solo tarro 🍫🤯\nDesliza 👉\n\n🥛 Whey Pure · Smart Nutrition · Chocolate\n💪 21 g de proteína · 🔥 105 kcal por porción\n✅ Baja en grasa\n📦 2.270 g · 75 porciones\n\n¿Tu batido favorito? ¿Con agua o con leche? 👇\n\n✅ 100% original · 📦 Envíos a todo Colombia · 💵 Contraentrega en Bogotá\n👉 Pídela en el link del perfil\n\n#wheypure #smartnutrition #proteina #wheyprotein #gymcolombia #bogota #elixr"
+ }
+]
