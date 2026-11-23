@@ -32,3 +32,21 @@ Fotos de zapatillas para crear Reels y portadas.
 ## Otros
 - logo-pontelos.png, perfil-captura.png, grid-captura.png
 - recortes/ — zapatillas sin fondo (PNG) listas para animar
+
+## Fotos de estudio nuevas (23-nov-2026) — recortes listos en recortes/cut_<nombre>.png
+- air-max-97-blancas.jpg — Air Max 97 triple blanco
+- new-balance-negras-blancas.jpg — New Balance running negras / suela blanca
+- air-force-1-blancas-swoosh-negro.jpg — Air Force 1 blancas swoosh negro
+- adidas-response2-negras-blancas.jpg — adidas Response 2 negras / suela blanca
+- adidas-response2-beige.jpg — adidas Response 2 beige / suela goma
+- adidas-response2-blancas-morado-verde.jpg — adidas Response 2 blancas / morado / cordones verdes
+- adidas-response2-negras-naranja.jpg — adidas Response 2 negras / naranja / lila
+- adidas-response2-full-negras.jpg — adidas Response 2 triple negro
+- air-max-95-gris-rosado.jpg — Air Max 95 gris / rosado (estudio)
+
+## Recortes ya usados en videos (evitar repetir como protagonistas)
+Jordan 5 negras, Nocta, XT6 cafés, AF1 vinotinto, MM6 negras, Salomon verdes, Jordan 4 rojas, adidas SFTM cafés,
+Dunk Low azul (cut_dunk), Air Max Plus blancas (cut_tn), On Cloud negro/blanco (cut_onbw), NB 530 (cut_nb530), XT-6 beige (cut_xt6b/xt6w),
+Shox TL (cut_shox), Nike ACG (cut_acg), adidas SFTM negras, XT-6 azul/amarillo, XT-4 negras (cut_xt4), NB rosadas (cut_nbpink),
+On beige (cut_onbeige), XT-6 gris/rojo (cut_xt6gr), On negras (cut_onblk), Jordan Runner (cut_jrun), XT-6 beige/azul (cut_xt6ba), NB blancas/lila (cut_nbw).
+Sin usar todavía: las 9 fotos nuevas de arriba.
