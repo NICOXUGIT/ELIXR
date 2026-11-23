@@ -64,3 +64,12 @@ Sin usar todavía: las 9 fotos nuevas de arriba.
 - salomon-kith-xt4-blancas-rojas-estudio.jpg — Salomon x Kith XT-4 blancas / rojas (estudio)
 Nota: Nocta, XT-6 cafés, Salomon verdes y MM6 (crema y negras) ya salieron en videos con fotos viejas; estas son versiones de estudio de mejor calidad.
 Sin usar todavía: Air Max 97 suela azul, XT-6 gris oscuro/plata, XT-6 arena/blanco/negro, XT-6 gris/morado, Kith XT-4 blancas/rojas.
+
+## Fotos nuevas (23-nov-2026, lote 3) — recortes en recortes/cut_<nombre>.png
+- salomon-xt6-negras-plata.jpg — Salomon XT-6 negras / plata (foto en sofá, recorte limpio)
+- salomon-xt6-gris-logo-rojo.jpg — Salomon XT-6 gris oscuro, logo rojo
+- air-force-1-crema-vinotinto-swoosh-transparente.jpg — Air Force 1 crema / vinotinto, swoosh transparente (parecida a la AF1 vinotinto ya usada)
+- adidas-tokyo-rosadas-cafe.jpg — adidas Tokyo rosadas / café, suela goma
+- onitsuka-tiger-mexico66-amarillas.jpg — Onitsuka Tiger Mexico 66 amarillas / negro
+- adidas-taekwondo-plata-velcro.jpg — adidas Taekwondo plata (piel de serpiente) con velcro
+Sin usar todavía: las 6.
