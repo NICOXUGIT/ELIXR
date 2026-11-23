@@ -50,3 +50,17 @@ Dunk Low azul (cut_dunk), Air Max Plus blancas (cut_tn), On Cloud negro/blanco (
 Shox TL (cut_shox), Nike ACG (cut_acg), adidas SFTM negras, XT-6 azul/amarillo, XT-4 negras (cut_xt4), NB rosadas (cut_nbpink),
 On beige (cut_onbeige), XT-6 gris/rojo (cut_xt6gr), On negras (cut_onblk), Jordan Runner (cut_jrun), XT-6 beige/azul (cut_xt6ba), NB blancas/lila (cut_nbw).
 Sin usar todavía: las 9 fotos nuevas de arriba.
+
+## Fotos de estudio nuevas (23-nov-2026, lote 2) — recortes en recortes/cut_<nombre>.png
+- air-max-97-blancas-suela-azul.jpg — Air Max 97 blancas, cámara azul ("MT.14:23")
+- nike-nocta-glide-blancas-plata.jpg — Nike Nocta Glide blancas / plata (estudio)
+- salomon-xt6-gris-oscuro-plata.jpg — Salomon XT-6 gris oscuro / plata
+- salomon-xt6-cafe-arena.jpg — Salomon XT-6 café / arena (estudio)
+- salomon-verdes-amarillas-estudio.jpg — Salomon verdes / amarillas (estudio)
+- salomon-mm6-crema-negras-estudio.jpg — Salomon x MM6 crema / negro (estudio)
+- salomon-xt6-arena-blanco-negro.jpg — Salomon XT-6 arena / blanco / negro
+- salomon-xt6-gris-morado.jpg — Salomon XT-6 gris claro / morado
+- salomon-mm6-negras-estudio.jpg — Salomon x MM6 negras / arena (estudio)
+- salomon-kith-xt4-blancas-rojas-estudio.jpg — Salomon x Kith XT-4 blancas / rojas (estudio)
+Nota: Nocta, XT-6 cafés, Salomon verdes y MM6 (crema y negras) ya salieron en videos con fotos viejas; estas son versiones de estudio de mejor calidad.
+Sin usar todavía: Air Max 97 suela azul, XT-6 gris oscuro/plata, XT-6 arena/blanco/negro, XT-6 gris/morado, Kith XT-4 blancas/rojas.
